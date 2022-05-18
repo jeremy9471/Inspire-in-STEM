@@ -13,7 +13,7 @@ volume = pi * int(baseRadius) * int(baseRadius) * int(height)
 print("The volume of the cylinder is " + str(volume))
 
 # surface area of the cylinder
-surfaceArea = int(baseRadius) * 2 *pi * int(height)
+surfaceArea = int(baseRadius) * 2 * pi * int(height)
 print("The surface area of the cylinder is " + str(surfaceArea))
 
 
