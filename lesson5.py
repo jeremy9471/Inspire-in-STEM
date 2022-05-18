@@ -6,21 +6,21 @@ age = 15
 age = 55
 
 # person = "I am " + name + " and I am " + str(age) + " years old"
-# print(person)
+print(person)
 
 # format method
-# print("My name is {} and I am {} ".format(name, age))
+print("My name is {} and I am {} ".format(name, age))
 
 # \n tab \t new line
-# print(f"My \t name is {name} \n and I am {age} years old")
+print(f"My \t name is {name} \n and I am {age} years old")
 
-# print(userName)
+print(userName)
 
 msg = """MPESA confirmed you have received ksh 12000 from 
 James Muriuki
 12 may 2022
 Safaricom appreciates your service."""
-# print(msg)        
+print(msg)        
 
 # slice to the end
 city = "Nairobi"
@@ -30,10 +30,10 @@ print(city[-1:])
 
 fName = "Jeremy"
 # upper()uppercase
-# print(fName.upper())
+print(fName.upper())
 
 sName = "ASUGAH"
-# print(sName.lower())
+print(sName.lower())
 x = 6
 print(float(x))
 y = 7.8
@@ -43,7 +43,7 @@ print(str(x))
 fName = "Jeremy"
 sName = "Asugah"
 fullName = fName + sName
-# print(fullName)
+print(fullName)
 
 # modifying
 print(fullName.replace("e","W"))

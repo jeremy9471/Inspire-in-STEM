@@ -1,15 +1,15 @@
 ### Inspire youth in STEM
 
 ## week 1: introduction to python
-Installing python, vscode and github(add link to downloading them)
+Installing python, vscode and github
 https://www.python.org/downloads/
 string functions
-      replace
-      strip
-      slice
-      lowecase, uppercase
-      format
-      split
+replace
+strip
+slice
+lowecase, uppercase
+format
+split
 
 ## week 2: electronics for innovators
 
