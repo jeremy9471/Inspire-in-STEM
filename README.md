@@ -3,13 +3,11 @@
 ## week 1: introduction to python
 Installing python, vscode and github
 https://www.python.org/downloads/
-string functions:
-      replace
-      strip
-      slice
-      lowecase, uppercase
-      format
-      split
+
+string functions: replace, strip, slice, lowecase, uppercase, format, split
+
+/Screenshot 2022-05-18 11.22.17 AM.png
+
 
 ## week 2: electronics for innovators
 
