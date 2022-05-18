@@ -12,12 +12,12 @@ myFirstName = "Jeremy"
 mySecondName = "Asugah"
 
 favouriteFood = "fries"
-schoolAttended = "Alliance High"
+schoolAttended = "Alliance "
 
 
-print(" I am " + myFirstName)
-print(" my favourite food is " + favouriteFood)
-print(" I went to " + schoolAttended)
-print(" I am " + str(age) + " years old ")
+print("I am " + myFirstName)
+print("My favourite food is " + favouriteFood)
+print("I went to " + schoolAttended)
+print("I am " + str(age) + " years old ")
 print("I was born in " + str(yearOfBirth))
 print("I have " + str(noOfSiblings) + " siblings")
