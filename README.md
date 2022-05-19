@@ -6,8 +6,11 @@ https://www.python.org/downloads/
 
 string functions: replace, strip, slice, lowecase, uppercase, format, split
 
-/Screenshot 2022-05-18 11.22.17 AM.png
 
+
+lists and working with them
+
+loops
 
 ## week 2: electronics for innovators
 
