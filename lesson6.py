@@ -6,7 +6,7 @@ motorcycle = ["Honda", "Yamaha", "Suzuki"]
 # print(motorcycle[0])
 
 # changing data in a list
-# motorcycle[1]= "Bugatti"
+motorcycle[1]= "Bugatti"
 # print("I love " + motorcycle[1])
 
 # adding elements in a list append
@@ -28,3 +28,4 @@ print(f"My name is {motorcycleOwner} and I own a {motorcycle[1]} {plateNumber[1]
 # removing an item from a list
 motorcycle.remove("Suzuki")
 print(motorcycle)
+print(motorcycle[-1])

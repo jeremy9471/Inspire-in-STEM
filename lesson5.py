@@ -5,13 +5,13 @@ userName = " Ada Lovelace "
 age = 15
 age = 55
 
-# person = "I am " + name + " and I am " + str(age) + " years old"
+person = "I am " + name + " and I am " + str(age) + " years old"
 print(person)
 
 # format method
 print("My name is {} and I am {} ".format(name, age))
 
-# \n tab \t new line
+# \t tab \n new line
 print(f"My \t name is {name} \n and I am {age} years old")
 
 print(userName)
