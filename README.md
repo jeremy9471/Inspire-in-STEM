@@ -12,6 +12,7 @@ lists and working with them
 
 loops
 
+
 ## week 2: electronics for innovators
 
 
