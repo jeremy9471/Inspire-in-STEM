@@ -8,9 +8,23 @@ string functions: replace, strip, slice, lowecase, uppercase, format, split
 
 lists and working with them
 
-loops: for and if
+for loops and if statements
 
 Screenshot 2022-05-24 10.34.49 AM
+# git commands
+git add *
+git commit -m "lesson...."
+git branch -M main
+git config --global user.name = "jeremy9471"
+git config --global user.email = "hefty....."
+git remote add main (URL)
+git push main
+
+dictionaries and key value pairs:
+looping in dictionaries
+using loops in dictionaries and vice versa
+
+data structures(storage site for data)
 ## week 2: electronics for innovators
 
 

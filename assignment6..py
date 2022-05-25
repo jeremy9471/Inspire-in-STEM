@@ -1,0 +1,1 @@
+# assignment print colors in uppercase once using a loop

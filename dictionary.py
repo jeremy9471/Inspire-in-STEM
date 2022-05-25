@@ -8,26 +8,28 @@
 
 
 # Initializing dictionaries
-# key value pairs
-student = {"Name": "Jeremy", "Age": "18", "Gender": "Male"}
-print(student["Name"])
-print(student["Age"])
-print(student["Gender"])
+# key value pairs(the keys and values are in quotations and separated by commas, 'key':'value')
+colors = {'color':'red'}
+vehicle = {'type':'toyota','plateNumber':'KCB17C'}
+# dictionary of a person
+person = {
+    'name':'Jeremy',
+    'address':'langata',
+    'number':'0799365556',
+    'gender':'male',
+    'age':'18'}
+#print(colors)
+# print(type(colors)) used to read class of a string,dictionary,list etc
 
-student["IdNo"] = "2054"
-student["Club"] = "City"
-print(student["IdNo"])
-print(student)
-student["x_position"] = 45
-print(student)
+# accessing values in dictionaries using the key
+print(vehicle['plateNumber'],vehicle['type'])
+print(type(person))
+print(person)
+person['favColor']='green'
+print(person['favColor'],person['name'],person['age'])
+del(person['number'])
+print(person)
 
-# initialize empty dictionary
-studentS = {}
-studentS["favFood"] = "Chapatti"
-studentS["homeCity"] = "Nakuru"
-print(studentS)
-# modify values
-student["Age"] = "23"
-print(student)
-del student["Gender"]
-print(student)
+# looping over dictionaries(for loop)
+for key, value in person.items():
+    print(f"{key}:{value}")
