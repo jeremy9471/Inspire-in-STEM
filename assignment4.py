@@ -2,10 +2,12 @@
 balance = int(input("How much money do you have? "))
 if (balance >=100000 and balance<=200000):
     newBalance = balance - 25000
-    print(f"We have deducted 25000. Your new balance is {newBalance}.")
+    print(f"We have deducted 25000.\nYour new balance is {newBalance}.")
 elif(balance>=500000 and balance<=1000000):
-    newBalance = balance - (0.3 * balance)
-    print(f"We have deducted 30%. Your newBalance is {newBalance}.")
+    newBalance = float(balance) - (0.3 * float(balance))
+    print(f"We have deducted 30%.\nYour newBalance is {newBalance}.")
 elif(balance>1000000):
     newBalance = balance - 15000
-    print(f"We have deducted 15000. Your new balance is {newBalance}.")
+    print(f"We have deducted 15000.\nYour new balance is {newBalance}.")
+else:
+    print("No deduction made")

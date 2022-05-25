@@ -6,13 +6,11 @@ https://www.python.org/downloads/
 
 string functions: replace, strip, slice, lowecase, uppercase, format, split
 
-
-
 lists and working with them
 
-loops
+loops: for and if
 
-
+Screenshot 2022-05-24 10.34.49 AM
 ## week 2: electronics for innovators
 
 
