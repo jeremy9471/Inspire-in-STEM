@@ -1,7 +1,7 @@
 # !/usr/bin/python
 
 #################################
-#       Dictionaries
+#       Dictionaries (collectionn of key value pairs)
 #       Name: Jeremy
 #       Date: 23 / 5 / 22
 #  ##############################
@@ -31,5 +31,10 @@ del(person['number'])
 print(person)
 
 # looping over dictionaries(for loop)
-for key, value in person.items():
-    print(f"{key}:{value}")
+#for key, value in person.items():
+ #   print(f"{key}:{value}")
+
+# using get method to access values in a dictionary
+print(person.get('gender'))
+print(person.get('password',"The \'password\' is non existent"))
+
