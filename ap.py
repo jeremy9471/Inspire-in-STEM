@@ -14,11 +14,3 @@ for i in range(1,n+1):
     print(n_term)
 s_n = (n/2)*((2*a)+(n-1)*d)
 print(f"Sum of numbers is: {s_n}")
-
-# geometric progressions
-a_g = int(input("Enter the first number: "))
-r = int(input("What is the common ratio? "))
-n_g = int(input("What is the final needed term? "))
-for i in range(1,n_g+1):
-    n_g_term = a*(r**n_g-1)
-    print(n_g_term)
