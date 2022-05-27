@@ -25,7 +25,7 @@ for number in range(1,10):
         prod = prod * number
 print(prod)
 
-# calculate factorial of 6
+# calculate factorial of 6(for loop)
 product = 1
 for number in range(1,7):
     product = product * number

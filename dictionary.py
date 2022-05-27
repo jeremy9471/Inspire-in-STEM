@@ -1,10 +1,4 @@
-# !/usr/bin/python
-
-#################################
-#       Dictionaries (collectionn of key value pairs)
-#       Name: Jeremy
-#       Date: 23 / 5 / 22
-#  ##############################
+CC
 
 
 # Initializing dictionaries

@@ -25,6 +25,8 @@ looping in dictionaries
 using loops in dictionaries and vice versa
 
 data structures(storage site for data)
+
+factorials using loops and if statements
 ## week 2: electronics for innovators
 
 

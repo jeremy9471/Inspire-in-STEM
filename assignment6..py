@@ -10,9 +10,9 @@ while i < len(colors):
 maryFavFood = ['beef','chicken','vegetable']
 janeFavFood = ['rice','ugali','mahindi choma']
 favFood = {
-    'mary':['beef','chicken','vegetable']
+    'mary':['beef','chicken','vegetable'],
     'jane':['rice','ugali','mahindi choma']
-}
+    }
 print(favFood)
 
 # mary with email and password same with jane
