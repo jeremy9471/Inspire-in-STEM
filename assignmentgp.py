@@ -5,3 +5,6 @@ n = int(input("What is the final needed term? "))
 for i in range(1,n+1):
     n_term = a*(r**(i-1))
     print(n_term)
+
+sum_n = (a*(1-(r**n)))/(1-r)
+print(sum_n)

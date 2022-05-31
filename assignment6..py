@@ -1,10 +1,10 @@
 # assignment print colors in uppercase once using a loop
 colors = ['red','blue','green','yellow']
 i = 0
-while i < len(colors):
-    for color in colors:
-        print(color.upper())
-    i = i+1
+#while i < len(colors):
+    #for color in colors:
+        #print(color.upper())
+    #i = i+1
 
 # lists (task is to combine them into one, 'fav food' dictionary)
 maryFavFood = ['beef','chicken','vegetable']
@@ -15,4 +15,5 @@ favFood = {
     }
 print(favFood)
 
-# mary with email and password same with jane
+for key,value in favFood.items():
+    print(f"{key}:{value}")
