@@ -32,3 +32,26 @@ def prod(x,y):
     product = x*y
     print("The product is",product)
 prod(89,6)
+
+# using default parameters
+def print_name(name = "Jeremy"):    # print_name is the name of the function
+    print(name)
+print_name("Joseph")
+
+# return from a function
+def get_sum(num_1,num_2):
+    sum_nums = num_1 + num_2
+    return sum_nums
+print(get_sum(76,98))
+
+# write a function to get the powers of numbers
+def powers(num,power):
+    pow_num = num**power
+    return pow_num
+print(powers(6,4))
+
+# print name
+def get_full_name(f_name,s_name):
+    full_name = f_name + " " + s_name
+    return full_name.title()
+print(get_full_name('Jeremy','Asugah'))

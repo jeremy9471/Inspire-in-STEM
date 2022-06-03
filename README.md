@@ -20,6 +20,8 @@ git config --global user.email = "hefty....."
 git remote add main (URL)
 git push main
 
+
+## week 2: electronics for innovators
 dictionaries and key value pairs:
 looping in dictionaries
 using loops in dictionaries and vice versa
@@ -27,8 +29,15 @@ using loops in dictionaries and vice versa
 data structures(storage site for data)
 
 factorials using loops and if statements
-## week 2: electronics for innovators
 
+using functions:
+    putting lists and dictionaries in functions
+
+creating and using tuples
+
+using classes
+
+create  a simple password generator
 
 ## week 3: Introduction to robotics
 
