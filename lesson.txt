@@ -1,0 +1,12 @@
+This is a normal text file
+Learning python is fun
+Today is a Monday
+
+f = open("lesson.txt") opens file
+f = open("lesson.txt",'r') opens text for reading
+f = open("lesson.txt",'w') opens for writing
+f = open("lesson2.txt",'x') creates a new file and opens it
+f = open("lesson.txt",'a') opens for appending at the end
+f = open("lesson.txt",'t') opens in text mode (can read and write in it)
+f = open("lesson.txt",'b') opens in binary (cant read or write)
+f = open("lesson.txt",'+') opens for updating
