@@ -1,4 +1,4 @@
-f = open("lesson2.txt")
+f = open("lesson2.txt",'r')
 print(f.readline())
 
 # creating a new file
